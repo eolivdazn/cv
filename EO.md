@@ -15,7 +15,7 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - Cloud: AWS (lambdas, sqs, route 53, load balance, ec2, fargate .. )
 - Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io
 
-## certification
+## Certification
  - ISTQB - Foundation level
 
 ## Work
@@ -30,11 +30,11 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - Incorporated performance testing into the software development life cycle to detect performance regressions in each release.
 - Developed GitHub workflows to automate deployments and package releases.
 - Developed front-end test automation solutions using Playwright and Cypress.
-- Developed a backend test automation using nest.js and jest and docker.
+- Developed a backend test automation using nest.js, jest and docker.
 
 
 
-### ESAILORS  (Hamburg , Germany)
+### QAE at ESAILORS  (Hamburg , Germany)
 2017 - 2019
 
 > Lotto24 is the leading German lottery provider on the Internet and is listed on the Frankfurt Stock Exchange. Lotto24.de is the market leader in online lottery brokerage in Germany and has more than 2.5 million customers.
