@@ -4,12 +4,13 @@
   "description": "Resume Eduardo",
   "main": "index.js",
   "scripts": {
-    "start": "markdown-to-html --source README.md --output dist/index.html"
+    "start": "mkdirp -p dist &markdown-to-html --source README.md --output dist/index.html"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "markdown-to-html-cli": "^4.0.1"
+    "markdown-to-html-cli": "^4.0.1",
+    "mkdirp": "^3.0.1"
   },
   "markdown-to-html": {
     "document": {
