@@ -63,7 +63,7 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 
 - Automate the regression test suite using selenium
 
-### Software tests at FARFETCH (Thessaloniki)
+### Software tests at FARFETCH (Porto, Portugal
 2013 - 2014
 
 - Create and maintain automated tests integrations(rest framework) and functional(selenium) tests
