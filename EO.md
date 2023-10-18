@@ -11,8 +11,8 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - E2E testing: Playwright, Cypress, Selenium, WebdriverIO, Cucumber
 - Performance testing: JMeter, Gatling, k6
 - CI: Drone, GitHub Actions, Jenkins
-- Observability: AWS Cloud watch - New Relic – Pagerduty – Loz.io
-- Cloud: AWS (lambdas, sqs, route 53, load balance, ec2, fargate .. )
+- Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io
+- Cloud: AWS 
 - Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io
 
 ## Certification
