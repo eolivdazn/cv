@@ -4,7 +4,7 @@
   "description": "Resume Eduardo",
   "main": "index.js",
   "scripts": {
-    "start": "markdown-to-html --source README.md --output index.html"
+    "start": "markdown-to-html --source README.md --output dist/index.html"
   },
   "author": "",
   "license": "ISC",
