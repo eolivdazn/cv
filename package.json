@@ -1,0 +1,22 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Resume Eduardo",
+  "main": "index.js",
+  "scripts": {
+    "start": "markdown-to-html --source README.md --output index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-to-html-cli": "^4.0.1"
+  },
+  "markdown-to-html": {
+    "document": {
+      "title": "Resume Eduardo",
+      "description": "Software Engineer",
+      "style": "body { color: red; }"
+    },
+    "markdown-style-theme": "dark"
+  }
+}
