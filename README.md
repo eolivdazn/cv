@@ -7,13 +7,13 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 
 - Frontend Technologies: HTML, CSS, JavaScript, Typescript, React, 
 - Backend Technologies: Node.js, Express.js, Ruby
-- Tools: Git, NPM, PNPM
+- Tools: Git, NPM
 - E2E testing: Playwright, Cypress, Selenium, WebdriverIO, Cucumber
 - Performance testing: JMeter, Gatling, k6
 - CI: Drone, GitHub Actions, Jenkins
 - Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io
 - Cloud: AWS 
-- Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io
+- Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io, Splunk
 
 ## Certification
  - ISTQB - Foundation level
