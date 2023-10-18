@@ -11,7 +11,6 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - E2E testing: Playwright, Cypress, Selenium, WebdriverIO, Cucumber
 - Performance testing: JMeter, Gatling, k6
 - CI: Drone, GitHub Actions, Jenkins
-- Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io
 - Cloud: AWS, Terraform
 - Containerization: Docker, Kubernetes
 - Databases:  MongoDB, DynamoDB
@@ -40,7 +39,7 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 > Lotto24 is the leading German lottery provider on the Internet.
 
 - Working primarily supporting backend microservices.
-- Create and maintain automated tests integrations(rest framework) and functional(selenium) tests
+- Create and maintain automated tests framework using groovy and selenium
 - Create a test framework to validate emails across all platform
 - Define test strategy
 - Maintain and create pipelines workflows in Jenkins
@@ -59,11 +58,10 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - Maintenance QA environment (AWS instance)
 - Create scripts (ruby , bash)
 
-
 ### QAE at AFRICA INTERNET GROUP (Porto , Portugal)
 2014 - 2015
 
- > Jumia is Africa's leading internet group, with already over 3,000 employees in more than 20 African countries.
+ > Jumia is an online marketplace in Africa.
 
 - Automate the regression test suite using selenium, cucumber and Ruby
 

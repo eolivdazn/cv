@@ -4,7 +4,7 @@
   "description": "Resume Eduardo",
   "main": "index.js",
   "scripts": {
-    "start": "mkdirp -p dist &markdown-to-html --source README.md --output dist/index.html"
+    "start": "mkdirp -p dist & markdown-to-html --source README.md --output dist/index.html"
   },
   "author": "",
   "license": "ISC",
@@ -16,8 +16,8 @@
     "document": {
       "title": "Resume Eduardo",
       "description": "Software Engineer",
-      "style": "body { color: red; }"
-    },
-    "markdown-style-theme": "dark"
+      "style": "body { color: red; }",
+      "markdown-style-theme": "dark"
+    }
   }
 }
