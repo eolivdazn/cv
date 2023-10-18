@@ -6,13 +6,16 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 ## Skills
 
 - Frontend Technologies: HTML, CSS, JavaScript, Typescript, React, 
-- Backend Technologies: Node.js, Express.js, Ruby
+- Backend Technologies: Node.js, Nest.js, Ruby, bash
 - Tools: Git, NPM
 - E2E testing: Playwright, Cypress, Selenium, WebdriverIO, Cucumber
 - Performance testing: JMeter, Gatling, k6
 - CI: Drone, GitHub Actions, Jenkins
 - Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io
 - Cloud: AWS 
+- IAS : Terraform
+- Containerization: Docker, Kubernetes
+- Databases:  MongoDB, DynamoDB
 - Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io, Splunk
 
 ## Certification
@@ -32,12 +35,10 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - Developed front-end test automation solutions using Playwright and Cypress.
 - Developed a backend test automation using nest.js, jest and docker.
 
-
-
 ### QAE at ESAILORS  (Hamburg , Germany)
 2017 - 2019
 
-> Lotto24 is the leading German lottery provider on the Internet. Lotto24.de is the market leader in online lottery brokerage in Germany and has more than 2.5 million customers.
+> Lotto24 is the leading German lottery provider on the Internet.
 
 - Working primarily supporting backend microservices.
 - Create and maintain automated tests integrations(rest framework) and functional(selenium) tests
@@ -50,6 +51,8 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 ### QAE at E.NEAR  (Lisbon , Portugal)
 2015 - 2017
 
+> E.Near is a software development company that provides nearshore services to companies in Europe.
+
 - Define test case
 - Report bugs
 - Create and maintain workflows in Jenkins
@@ -59,18 +62,18 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 
 
 ### QAE at AFRICA INTERNET GROUP (Porto , Portugal)
- > Jumia is Africa's leading internet group, with already over 3,000 employees in more than 20 African countries.
-
 2014 - 2015
 
-- Automate the regression test suite using selenium
+ > Jumia is Africa's leading internet group, with already over 3,000 employees in more than 20 African countries.
 
-### Software tests at FARFETCH (Porto, Portugal
-> Farfetch is an online luxury fashion retail platform that sells products from over 700 boutiques and brands from around the world.
+- Automate the regression test suite using selenium, cucumber and Ruby
 
+### Software tester at FARFETCH (Porto, Portugal
 2013 - 2014
 
-- Create and maintain automated tests integrations(rest framework) and functional(selenium) tests
+> Farfetch is an online luxury fashion retail platform.
+
+- Create and maintain automated tests integrations(rest API framework) and functional(selenium) tests
 - Manual tests
 
 ## Education
