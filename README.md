@@ -12,8 +12,7 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - Performance testing: JMeter, Gatling, k6
 - CI: Drone, GitHub Actions, Jenkins
 - Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io
-- Cloud: AWS 
-- IAS : Terraform
+- Cloud: AWS, Terraform
 - Containerization: Docker, Kubernetes
 - Databases:  MongoDB, DynamoDB
 - Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io, Splunk
