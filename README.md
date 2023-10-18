@@ -37,7 +37,7 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 ### QAE at ESAILORS  (Hamburg , Germany)
 2017 - 2019
 
-> Lotto24 is the leading German lottery provider on the Internet and is listed on the Frankfurt Stock Exchange. Lotto24.de is the market leader in online lottery brokerage in Germany and has more than 2.5 million customers.
+> Lotto24 is the leading German lottery provider on the Internet. Lotto24.de is the market leader in online lottery brokerage in Germany and has more than 2.5 million customers.
 
 - Working primarily supporting backend microservices.
 - Create and maintain automated tests integrations(rest framework) and functional(selenium) tests
@@ -48,7 +48,7 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - Create test stories in a scrum environment
 
 ### QAE at E.NEAR  (Lisbon , Portugal)
-2015 - 2021
+2015 - 2017
 
 - Define test case
 - Report bugs
@@ -59,11 +59,15 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 
 
 ### QAE at AFRICA INTERNET GROUP (Porto , Portugal)
+ > Jumia is Africa's leading internet group, with already over 3,000 employees in more than 20 African countries.
+
 2014 - 2015
 
 - Automate the regression test suite using selenium
 
 ### Software tests at FARFETCH (Porto, Portugal
+> Farfetch is an online luxury fashion retail platform that sells products from over 700 boutiques and brands from around the world.
+
 2013 - 2014
 
 - Create and maintain automated tests integrations(rest framework) and functional(selenium) tests
@@ -71,7 +75,7 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 
 ## Education
 
-- Universidade de trás-os-montes e alto douro (UTAD) - Technology and Information Systems
+- Universidade de trás-os-montes e alto douro (UTAD) - Technology, Information  and Communication
 
 ## Contact Information
 
