@@ -1,9 +1,9 @@
-# Eduardo Oliveira
+## Eduardo Oliveira
 ## Software Developer in Tests
 
 Software engineer with 10 years of experience, primarily as a QAE and SDET. Proven ability to design, develop, and implement test automation, test architecture, test management, and continuous integration solutions. Familiar with Agile software development and the software development life cycle.
 
-## Skills
+### Skills
 
 - Frontend Technologies: HTML, CSS, JavaScript, Typescript, React, 
 - Backend Technologies: Node.js, Nest.js, Ruby, bash
@@ -11,15 +11,15 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - E2E testing: Playwright, Cypress, Selenium, WebdriverIO, Cucumber
 - Performance testing: JMeter, Gatling, k6
 - CI: Drone, GitHub Actions, Jenkins
-- Cloud: AWS, Terraform
+- Cloud: AWS, Terraform, localstack
 - Containerization: Docker, Kubernetes
 - Databases:  MongoDB, DynamoDB
 - Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io, Splunk
 
-## Certification
+### Certification
  - ISTQB - Foundation level
 
-## Work
+## Work experience
 
 ### Software Developer in Tests at Dazn (Amsterdam)
 2019 - Present
@@ -48,8 +48,7 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 
 ### QAE at E.NEAR  (Lisbon , Portugal)
 2015 - 2017
-
-> E.Near is a software development company that provides nearshore services to companies in Europe.
+> E.Near is a software development company that provides nearshore services to clients in Europe.
 
 - Define test case
 - Report bugs
@@ -58,26 +57,24 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - Maintenance QA environment (AWS instance)
 - Create scripts (ruby , bash)
 
-### QAE at AFRICA INTERNET GROUP (Porto , Portugal)
+#### QAE at AFRICA INTERNET GROUP (Porto , Portugal)
 2014 - 2015
-
- > Jumia is an online marketplace in Africa.
+> Jumia is the leading pan-African e-commerce platform.
 
 - Automate the regression test suite using selenium, cucumber and Ruby
 
-### Software tester at FARFETCH (Porto, Portugal
+#### Software tester at FARFETCH (Porto, Portugal)
 2013 - 2014
-
 > Farfetch is an online luxury fashion retail platform.
 
 - Create and maintain automated tests integrations(rest API framework) and functional(selenium) tests
 - Manual tests
 
-## Education
+##### Education
 
 - Universidade de trás-os-montes e alto douro (UTAD) - Technology, Information  and Communication
 
-## Contact Information
+##### Contact Information
 
 - Email: eterra1@hotmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eduardosoliveira)

@@ -4,20 +4,23 @@
   "description": "Resume Eduardo",
   "main": "index.js",
   "scripts": {
-    "start": "mkdirp -p dist & markdown-to-html --source README.md --output dist/index.html"
+    "start": "mkdirp -p dist & markdown-to-html --no-dark-mode --source README.md --output dist/index.html & npm run pdf",
+    "pdf": "html-export-pdf-cli --scale 0.4 dist/index.html -o dist/EduardoOliveira.pdf"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "markdown-to-html-cli": "^4.0.1",
-    "mkdirp": "^3.0.1"
+    "mkdirp": "^3.0.1",
+    "html-export-pdf-cli": "^1.1.5"
   },
   "markdown-to-html": {
     "document": {
       "title": "Resume Eduardo",
       "description": "Software Engineer",
       "style": "body { color: red; }",
-      "markdown-style-theme": "dark"
+      "dark-mode": false,
+      "corners": false
     }
   }
 }
