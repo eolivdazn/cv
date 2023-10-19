@@ -5,10 +5,10 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 
 ### Skills
 
-- Frontend Technologies: HTML, CSS, JavaScript, Typescript, React, 
+- Frontend Technologies: HTML, CSS, JavaScript, Typescript, React 
 - Backend Technologies: Node.js, Nest.js, Ruby, bash
 - Tools: Git, NPM
-- E2E testing: Playwright, Cypress, Selenium, WebdriverIO, Cucumber
+- E2E testing: Playwright, Cypress, Selenium, WebdriverIO, Cucumber, Postman
 - Performance testing: JMeter, Gatling, k6
 - CI: Drone, GitHub Actions, Jenkins
 - Cloud: AWS, Terraform, localstack
@@ -21,7 +21,7 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 
 ## Work experience
 
-### Software Developer in Tests at Dazn (Amsterdam)
+### Software Developer in Tests at Dazn (Amsterdam, Netherlands)
 2019 - Present
 
 > DAZN is a global sports streaming service that offers live and on-demand content.
@@ -33,7 +33,7 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - Developed front-end test automation solutions using Playwright and Cypress.
 - Developed a backend test automation using nest.js, jest and docker.
 
-### QAE at ESAILORS  (Hamburg , Germany)
+### QAE at ESAILORS  (Hamburg, Germany)
 2017 - 2019
 
 > Lotto24 is the leading German lottery provider on the Internet.
@@ -46,7 +46,7 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - Analysis test reports
 - Create test stories in a scrum environment
 
-### QAE at E.NEAR  (Lisbon , Portugal)
+### QAE at E.NEAR  (Lisbon, Portugal)
 2015 - 2017
 > E.Near is a software development company that provides nearshore services to clients in Europe.
 
@@ -57,13 +57,13 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - Maintenance QA environment (AWS instance)
 - Create scripts (ruby , bash)
 
-#### QAE at AFRICA INTERNET GROUP (Porto , Portugal)
+#### QAE at AFRICA INTERNET GROUP  (Porto, Portugal)
 2014 - 2015
 > Jumia is the leading pan-African e-commerce platform.
 
 - Automate the regression test suite using selenium, cucumber and Ruby
 
-#### Software tester at FARFETCH (Porto, Portugal)
+#### Software tester at FARFETCH  (Porto, Portugal)
 2013 - 2014
 > Farfetch is an online luxury fashion retail platform.
 
