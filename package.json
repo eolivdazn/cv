@@ -5,15 +5,17 @@
   "main": "index.js",
   "scripts": {
     "start": "mkdirp -p dist & markdown-to-html --no-dark-mode --source README.md --output dist/index.html",
-    "pdf": "html-export-pdf-cli --scale 0.4 dist/index.html -o dist/EduardoOliveira.pdf",
-    "local": "npm run start && npm run pdf"
+    "pdf": "html-export-pdf-cli --scale 0.4 dist/index.html -o EduardoOliveira.pdf",
+    "local": "npm run start && npm run pdf",
+    "prepare": "npm run local"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "html-export-pdf-cli": "^1.1.5",
     "markdown-to-html-cli": "^4.0.1",
     "mkdirp": "^3.0.1",
-    "html-export-pdf-cli": "^1.1.5"
+    "husky": "^8.0.3"
   },
   "markdown-to-html": {
     "document": {
