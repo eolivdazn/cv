@@ -6,16 +6,14 @@
   "scripts": {
     "start": "mkdirp -p dist & markdown-to-html --no-dark-mode --source README.md --output dist/index.html",
     "pdf": "html-export-pdf-cli --scale 0.4 dist/index.html -o EduardoOliveira.pdf",
-    "local": "npm run start && npm run pdf",
-    "prepare": "npm run local"
+    "local": "npm run start && npm run pdf"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "html-export-pdf-cli": "^1.1.5",
     "markdown-to-html-cli": "^4.0.1",
-    "mkdirp": "^3.0.1",
-    "husky": "^8.0.3"
+    "mkdirp": "^3.0.1"
   },
   "markdown-to-html": {
     "document": {
