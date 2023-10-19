@@ -78,3 +78,4 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 
 - Email: eterra1@hotmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eduardosoliveira)
+- PDF: [Download PDF](<a href="EduardoOliveira.pdf" target="_blank">PDF.</a>)
