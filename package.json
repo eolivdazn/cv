@@ -4,8 +4,9 @@
   "description": "Resume Eduardo",
   "main": "index.js",
   "scripts": {
-    "start": "mkdirp -p dist & markdown-to-html --no-dark-mode --source README.md --output dist/index.html & npm run pdf",
-    "pdf": "html-export-pdf-cli --scale 0.4 dist/index.html -o dist/EduardoOliveira.pdf"
+    "start": "mkdirp -p dist & markdown-to-html --no-dark-mode --source README.md --output dist/index.html",
+    "pdf": "html-export-pdf-cli --scale 0.4 dist/index.html -o dist/EduardoOliveira.pdf",
+    "local": "npm run start && npm run pdf"
   },
   "author": "",
   "license": "ISC",
