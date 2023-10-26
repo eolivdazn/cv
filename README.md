@@ -39,12 +39,12 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 > Lotto24 is the leading German lottery provider on the Internet.
 
 - Working primarily supporting backend microservices.
-- Create and maintain automated tests framework using groovy and selenium
-- Create a test framework to validate emails across all platform
-- Define test strategy
-- Maintain and create pipelines workflows in Jenkins
-- Analysis test reports
-- Create test stories in a scrum environment
+- Create and maintain automated tests framework using groovy and selenium.
+- Create a test framework to validate emails across all platform.
+- Define test strategy.
+- Maintain and create pipelines workflows in Jenkins.
+- Analysis test reports.
+- Create test stories in a scrum environment.
 
 ### QAE at E.NEAR  (Lisbon, Portugal)
 2015 - 2017
