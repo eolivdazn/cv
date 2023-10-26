@@ -1,7 +1,7 @@
 {
   "name": "cv",
   "version": "1.0.0",
-  "description": "Resume EO",
+  "description": "Resume EO-2",
   "main": "index.js",
   "scripts": {
     "start": "mkdirp -p dist & markdown-to-html --no-dark-mode --source README.md --output dist/index.html",
