@@ -22,7 +22,7 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 ## Work experience
 
 ### Software Developer in Tests at Dazn (Amsterdam, Netherlands)
-2019 - Present
+2019 - Nov-2023
 
 > DAZN is a global sports streaming service that offers live and on-demand content.
 
