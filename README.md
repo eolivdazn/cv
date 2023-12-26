@@ -17,7 +17,7 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 - Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io, Splunk
 
 ### Certification
- - ISTQB - Foundation level
+ - ISTQB - Foundation level 
 
 ## Work experience
 
