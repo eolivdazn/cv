@@ -6,14 +6,14 @@ Software engineer with 10 years of experience, primarily as a QAE and SDET. Prov
 ### Skills
 
 - Frontend Technologies: HTML, CSS, JavaScript, Typescript, React 
-- Backend Technologies: Node.js, Nest.js, Ruby, bash
+- Backend Technologies: Node.js, Nest.js, Ruby, bash, python
 - Tools: Git, NPM
-- E2E testing: Playwright, Cypress, Selenium, WebdriverIO, Cucumber, Postman
+- E2E testing: Playwright, Cypress, Selenium, WebdriverIO, Cucumber, Appium, Postman
 - Performance testing: JMeter, Gatling, k6
 - CI: Drone, GitHub Actions, Jenkins
 - Cloud: AWS, Terraform, localstack
 - Containerization: Docker, Kubernetes
-- Databases:  MongoDB, DynamoDB
+- Databases:  MongoDB, DynamoDB, SQL
 - Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io, Splunk
 
 ### Certification
