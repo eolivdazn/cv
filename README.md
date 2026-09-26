@@ -72,25 +72,13 @@ Senior QA Engineer for the Care Portal frontend and backend, owning test strateg
 2015 - 2017
 > E.Near is a software development company that provides nearshore services to clients in Europe.
 
-- Define test case
-- Report bugs
-- Create and maintain workflows in Jenkins
-- Analysis test reports
-- Maintenance QA environment (AWS instance)
-- Create scripts (ruby , bash)
-
 #### QAE at AFRICA INTERNET GROUP  (Porto, Portugal)
 2014 - 2015
 > Jumia is the leading pan-African e-commerce platform.
 
-- Automate the regression test suite using selenium, cucumber and Ruby
-
 #### Software tester at FARFETCH  (Porto, Portugal)
 2013 - 2014
 > Farfetch is an online luxury fashion retail platform.
-
-- Create and maintain automated tests integrations(rest API framework) and functional(selenium) tests
-- Manual tests
 
 ##### Education
 
