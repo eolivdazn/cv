@@ -1,25 +1,46 @@
 ## Eduardo Oliveira
-## Software Developer in Tests
+## Senior QA Engineer / Software Developer in Tests
 
-Software engineer with 10 years of experience, primarily as a QAE and SDET. Proven ability to design, develop, and implement test automation, test architecture, test management, and continuous integration solutions. Familiar with Agile software development and the software development life cycle.
+Software engineer with 13 years of experience, primarily as a QAE and SDET. Proven ability to design, develop, and implement test automation, test architecture, test management, and continuous integration solutions. Familiar with Agile software development and the software development life cycle.
 
 ### Skills
 
-- Frontend Technologies: HTML, CSS, JavaScript, Typescript, React 
-- Backend Technologies: Node.js, Nest.js, Ruby, bash, python
-- Tools: Git, NPM
-- E2E testing: Playwright, Cypress, Selenium, WebdriverIO, Cucumber, Appium, Postman
-- Performance testing: JMeter, Gatling, k6
-- CI: Drone, GitHub Actions, Jenkins
-- Cloud: AWS, Terraform, localstack
-- Containerization: Docker, Kubernetes
+- Technologies: JavaScript, Typescript, bash, python
+- Tools: Git, NPM, Jira
+- E2E testing: Playwright, Cypress, Karate, Selenium, WebdriverIO, Cucumber, Appium, Postman
+- Performance testing: k6, JMeter, Gatling
+- CI: GitHub Actions, Jenkins
+- Cloud: Azure, AWS, Terraform, Plumin, Helmfile, LocalStack
+- Containerization: Docker
 - Databases:  MongoDB, DynamoDB, SQL
-- Observability: AWS Cloud watch, New Relic, Pagerduty, Loz.io, Splunk
+- Observability: AWS CloudWatch, New Relic, PagerDuty, Loz.io, Splunk
 
 ### Certification
  - ISTQB - Foundation level 
 
 ## Work experience
+
+### Senior QA Engineer at Galenica (Bern ,Switzerland)
+2025 (January) - Present
+
+> Galenica is the leading healthcare provider in Switzerland, with the largest pharmacy network and wholesale distribution in the country.
+
+Senior QA Engineer for the Care Portal frontend and backend, owning test strategy, test automation frameworks, release validation, and production quality across multi-brand, multilingual customer journeys.
+
+- Built and maintained automated UI, API and end-to-end coverage with Vitest, Cypress, Playwright, and k6, including a visual regression suite.
+- Designed k6 load tests to validate performance and scalability of the Care Portal
+- Integrated test suites into GitHub Actions CI/CD as release gates, improving regression detection before production.
+- Supported platform delivery with Helm/Helmfile and releases to AKS.
+- Implemented observability as code with Pulumi and New Relic (dashboards, alert policies, NRQL queries) to monitor production health and traffic.
+
+### QA Engineer at Ryanair Labs (Full remote)
+2024 (January) - 2025 (January)
+
+> Ryanair Labs is the technology hub of Ryanair, Europe's largest airline group, building the digital products used by millions of passengers.
+
+- Developed and maintained E2E and API test automation for the web eCrew app.
+- Integrated automated test suites into the CI pipelines.
+- Collaborated with distributed teams in an Agile environment.
 
 ### Software Developer in Tests at Dazn (Amsterdam, Netherlands)
 2019 - 2023 (November)
