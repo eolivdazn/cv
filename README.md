@@ -1,7 +1,7 @@
 ## Eduardo Oliveira
 ## Senior QA Engineer / Software Developer in Tests
 
-Software engineer with 13 years of experience, primarily as a QAE and SDET. Proven ability to design, develop, and implement test automation, test architecture, test management, and continuous integration solutions. Familiar with Agile software development and the software development life cycle.
+Software engineer with 10+ years of experience, primarily as a QAE and SDET. Proven ability to design, develop, and implement test automation, test architecture, test management, and continuous integration solutions. Familiar with Agile software development and the software development life cycle.
 
 ### Skills
 
