@@ -20,7 +20,7 @@ Software engineer with 13 years of experience, primarily as a QAE and SDET. Prov
 
 ## Work experience
 
-### Senior QA Engineer at Galenica (Bern ,Switzerland)
+### Senior QA Engineer at Galenica (Bern, Switzerland)
 2025 (January) - Present
 
 > Galenica is the leading healthcare provider in Switzerland, with the largest pharmacy network and wholesale distribution in the country.
@@ -32,6 +32,7 @@ Senior QA Engineer for the Care Portal frontend and backend, owning test strateg
 - Integrated test suites into GitHub Actions CI/CD as release gates, improving regression detection before production.
 - Supported platform delivery with Helm/Helmfile and releases to AKS.
 - Implemented observability as code with Pulumi and New Relic (dashboards, alert policies, NRQL queries) to monitor production health and traffic.
+- AI Assisted using copilot to generate test cases and test data, improving test coverage and reducing manual effort.
 
 ### QA Engineer at Ryanair Labs (Full remote)
 2024 (January) - 2025 (January)
