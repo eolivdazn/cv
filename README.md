@@ -63,7 +63,6 @@ Senior QA Engineer for the Care Portal frontend and backend, owning test strateg
 - Working primarily supporting backend microservices.
 - Create and maintain automated tests framework using groovy and selenium.
 - Create a test framework to validate emails across all platform.
-- Define test strategy.
 - Maintain and create pipelines workflows in Jenkins.
 - Analysis test reports.
 - Create test stories in a scrum environment.
@@ -71,7 +70,6 @@ Senior QA Engineer for the Care Portal frontend and backend, owning test strateg
 ### QAE at E.NEAR  (Lisbon, Portugal)
 2015 - 2017
 > E.Near is a software development company that provides nearshore services to clients in Europe.
-
 #### QAE at AFRICA INTERNET GROUP  (Porto, Portugal)
 2014 - 2015
 > Jumia is the leading pan-African e-commerce platform.
