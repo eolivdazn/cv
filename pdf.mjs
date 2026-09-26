@@ -4,7 +4,8 @@ import puppeteer from 'puppeteer';
 
 const [source = 'dist/index.html', output = 'EduardoOliveira.pdf'] = process.argv.slice(2);
 
-const browser = await puppeteer.launch();
+// GitHub's Ubuntu runners block Chrome's sandbox; we only render our own local HTML.
+const browser = await puppeteer.launch({ args: process.env.CI ? ['--no-sandbox'] : [] });
 try {
   const page = await browser.newPage();
   await page.goto(pathToFileURL(resolve(source)).href, { waitUntil: 'networkidle0' });
